@@ -1,11 +1,11 @@
 const alternatives = [
-    {text:"", images:"images/cat-01.gif"},
-    {text:"Idi marapurānidigā uṇṭundani nēnu mīku vāgdānaṁ cēstunnānu", images:"images/cat-02.gif"},
-    {text:"Maḷḷī ālōcin̄cu, ayyō", images:"images/cat-03.gif"},
-    {text:"Raṇḍi, avunu ani dhairyaṅgā ceppaṇḍi", images:"images/cat-04.gif"},
-    {text:"Bhayaṁ mim'malni āpanivvavaddu, āvu", images:"images/cat-05.gif"}
+    {text:"", images:"cat-01.gif"},
+    {text:"Idi marapurānidigā uṇṭundani nēnu mīku vāgdānaṁ cēstunnānu", images:"cat-02.gif"},
+    {text:"Maḷḷī ālōcin̄cu, ayyō", images:"cat-03.gif"},
+    {text:"Raṇḍi, avunu ani dhairyaṅgā ceppaṇḍi", images:"cat-04.gif"},
+    {text:"Bhayaṁ mim'malni āpanivvavaddu, āvu", images:"cat-05.gif"}
 ];
-const ohyes = {text:"Mīru aṅgīkaristārani nāku telusu, nā priyamaina", images:"images/cat-yes.gif"};
+const ohyes = {text:"Mīru aṅgīkaristārani nāku telusu, nā priyamaina", images:"cat-yes.gif"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
